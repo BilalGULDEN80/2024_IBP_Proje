@@ -1,0 +1,6 @@
+c:\users\bilal\documents\visual studio 2013\Projects\ITP_2017110206002\ITP_2017110206002\bin\ITP_2017110206002.dll.config
+c:\users\bilal\documents\visual studio 2013\Projects\ITP_2017110206002\ITP_2017110206002\bin\ITP_2017110206002.dll
+c:\users\bilal\documents\visual studio 2013\Projects\ITP_2017110206002\ITP_2017110206002\bin\ITP_2017110206002.pdb
+c:\users\bilal\documents\visual studio 2013\Projects\ITP_2017110206002\ITP_2017110206002\obj\Debug\ITP_2017110206002.csprojResolveAssemblyReference.cache
+c:\users\bilal\documents\visual studio 2013\Projects\ITP_2017110206002\ITP_2017110206002\obj\Debug\ITP_2017110206002.dll
+c:\users\bilal\documents\visual studio 2013\Projects\ITP_2017110206002\ITP_2017110206002\obj\Debug\ITP_2017110206002.pdb
